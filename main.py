@@ -19,7 +19,7 @@ def generate():
     passwdEntry.insert(0, random_nums)
 
 Title = Label(window, 
-                text="Поле з паролем: ", 
+                text="Поле з паролем:", 
                 font=("Cantarell", 14, "normal"), 
                 fg="black", 
                 bg="white")
